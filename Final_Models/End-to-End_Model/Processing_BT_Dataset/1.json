@@ -1,0 +1,306 @@
+{
+    "version": "1.1.0",
+    "data": "On Wednesday, the total number of confirmed deaths linked to SARS-CoV-2 coronavirus infections surpassed 100,000 in the United States, Johns Hopkins University data indicated. The coronavirus causes COVID-19, a sometimes-fatal disease. The milestone came just under a month after the total number of confirmed infections in the United States surpassed one million on April 28.\n\nAs of Wednesday, the United States had the highest number of known infections, accounting for around 30% of world-wide coronavirus infections with over 1.6 million confirmed cases. The United States likewise had the highest number of confirmed deaths linked to the coronavirus, with the next highest country, the United Kingdom, reporting 37,542 deaths as of Wednesday.\n\nThe milestone came as states began to relax restrictions put in place during the COVID-19 pandemic. According to the University of Washington's Institute for Health Metrics and Evaluation, the coronavirus may cause roughly 32,000 more deaths in the United States by August 4.\n",
+    "attributes": {
+        "entities": {
+            "type": "list",
+            "itemType": "entities",
+            "items": [
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 44,
+                            "endOffset": 50
+                        }
+                    ],
+                    "type": "SYMPTOM",
+                    "entityId": "Q4"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 61,
+                            "endOffset": 71
+                        }
+                    ],
+                    "type": "SUBSTANCE",
+                    "entityId": "Q84263196"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 72,
+                            "endOffset": 83
+                        }
+                    ],
+                    "type": "SUBSTANCE",
+                    "entityId": "Q89469904"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 84,
+                            "endOffset": 94
+                        }
+                    ],
+                    "type": "DISEASE",
+                    "entityId": "Q166231"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 120,
+                            "endOffset": 133
+                        }
+                    ],
+                    "type": "LOC",
+                    "entityId": "Q30"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 135,
+                            "endOffset": 159
+                        }
+                    ],
+                    "type": "ORG",
+                    "entityId": "Q193727"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 180,
+                            "endOffset": 191
+                        }
+                    ],
+                    "type": "SUBSTANCE",
+                    "entityId": "Q82069695"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 199,
+                            "endOffset": 207
+                        }
+                    ],
+                    "type": "DISEASE",
+                    "entityId": "Q84263196"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 227,
+                            "endOffset": 234
+                        }
+                    ],
+                    "type": "DISEASE",
+                    "entityId": "Q12136"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 310,
+                            "endOffset": 320
+                        }
+                    ],
+                    "type": "DISEASE",
+                    "entityId": "Q166231"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 328,
+                            "endOffset": 341
+                        }
+                    ],
+                    "type": "LOC",
+                    "entityId": "Q30"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 399,
+                            "endOffset": 412
+                        }
+                    ],
+                    "type": "LOC",
+                    "entityId": "Q30"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 445,
+                            "endOffset": 455
+                        }
+                    ],
+                    "type": "DISEASE",
+                    "entityId": "Q166231"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 497,
+                            "endOffset": 519
+                        }
+                    ],
+                    "type": "DISEASE",
+                    "entityId": "Q82069695"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 563,
+                            "endOffset": 576
+                        }
+                    ],
+                    "type": "LOC",
+                    "entityId": "Q30"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 622,
+                            "endOffset": 628
+                        }
+                    ],
+                    "type": "SYMPTOM",
+                    "entityId": "Q4"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 643,
+                            "endOffset": 654
+                        }
+                    ],
+                    "type": "SUBSTANCE",
+                    "entityId": "Q82069695"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 691,
+                            "endOffset": 705
+                        }
+                    ],
+                    "type": "LOC",
+                    "entityId": "Q145"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 724,
+                            "endOffset": 730
+                        }
+                    ],
+                    "type": "SYMPTOM",
+                    "entityId": "Q4"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 830,
+                            "endOffset": 838
+                        }
+                    ],
+                    "type": "DISEASE",
+                    "entityId": "Q84263196"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 866,
+                            "endOffset": 890
+                        }
+                    ],
+                    "type": "ORG",
+                    "entityId": "Q219563"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 893,
+                            "endOffset": 936
+                        }
+                    ],
+                    "type": "ORG",
+                    "entityId": "Q6039400"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 942,
+                            "endOffset": 953
+                        }
+                    ],
+                    "type": "SUBSTANCE",
+                    "entityId": "Q82069695"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 984,
+                            "endOffset": 990
+                        }
+                    ],
+                    "type": "SYMPTOM",
+                    "entityId": "Q4"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 998,
+                            "endOffset": 1011
+                        }
+                    ],
+                    "type": "LOC",
+                    "entityId": "Q30"
+                }
+            ]
+        }
+    },
+    "documentMetadata": {
+        "title": [
+            "SARS-CoV-2 surpasses 100,000 confirmed deaths in the United States"
+        ],
+        "language": [
+            "en"
+        ],
+        "direction": [
+            "ltr"
+        ],
+        "published_date": [
+            "2020-05-29"
+        ],
+        "accessed_date": [
+            "2020-08-19T17:57:25.224462"
+        ],
+        "url": [
+            "https://en.wikinews.org/wiki/SARS-CoV-2_surpasses_100,000_confirmed_deaths_in_the_United_States"
+        ],
+        "domain": [
+            "https://en.wikinews.org"
+        ],
+        "wikinews_categories": [
+            "https://en.wikinews.org/wiki/Category:Archived",
+            "https://en.wikinews.org/wiki/Category:COVID-19",
+            "https://en.wikinews.org/wiki/Category:Coronavirus",
+            "https://en.wikinews.org/wiki/Category:Disease",
+            "https://en.wikinews.org/wiki/Category:Health",
+            "https://en.wikinews.org/wiki/Category:Infectious_disease",
+            "https://en.wikinews.org/wiki/Category:May_29,_2020",
+            "https://en.wikinews.org/wiki/Category:North_America",
+            "https://en.wikinews.org/wiki/Category:Published",
+            "https://en.wikinews.org/wiki/Category:United_States"
+        ],
+        "uuid": [
+            "5e60ea75b7083076809ff8f784d0e2e3"
+        ],
+        "annotators": [
+            "yaeli",
+            "nathalie",
+            "nimrod"
+        ],
+        "adjudicators": []
+    }
+}

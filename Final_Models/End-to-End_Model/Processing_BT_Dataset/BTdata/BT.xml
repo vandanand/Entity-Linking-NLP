@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BT.entityAnnotation>
+	<document docName="Coronavirus">
+		<annotation>
+			<mention>deaths</mention>
+			<wikiName>death</wikiName>
+			<offset>44</offset>
+			<length>6</length>
+		</annotation>
+		<annotation>
+			<mention>SARS-CoV-2</mention>
+			<wikiName>COVID-19</wikiName>
+			<offset>61</offset>
+			<length>10</length>
+		</annotation>
+		<annotation>
+			<mention>coronavirus</mention>
+			<wikiName>Coronavirus</wikiName>
+			<offset>72</offset>
+			<length>11</length>
+		</annotation>
+		<annotation>
+			<mention>infections</mention>
+			<wikiName>infection</wikiName>
+			<offset>84</offset>
+			<length>10</length>
+		</annotation>
+		<annotation>
+			<mention>United States</mention>
+			<wikiName>United States of America</wikiName>
+			<offset>120</offset>
+			<length>13</length>
+		</annotation>
+		<annotation>
+			<mention>Johns Hopkins University</mention>
+			<wikiName>Johns Hopkins University</wikiName>
+			<offset>135</offset>
+			<length>24</length>
+		</annotation>
+		<annotation>
+			<mention>COVID-19</mention>
+			<wikiName>COVID-19</wikiName>
+			<offset>199</offset>
+			<length>8</length>
+		</annotation>
+		<annotation>
+			<mention>disease</mention>
+			<wikiName>disease</wikiName>
+			<offset>227</offset>
+			<length>7</length>
+		</annotation>
+		<annotation>
+			<mention>United Kingdom</mention>
+			<wikiName>United Kingdom</wikiName>
+			<offset>691</offset>
+			<length>14</length>
+		</annotation>
+		<annotation>
+			<mention>University of Washington</mention>
+			<wikiName>University of Washington</wikiName>
+			<offset>866</offset>
+			<length>24</length>
+		</annotation>
+		<annotation>
+			<mention>Institute for Health Metrics and Evaluation</mention>
+			<wikiName>Institute for Health Metrics and Evaluation</wikiName>
+			<offset>893</offset>
+			<length>43</length>
+		</annotation>
+	</document>
+</BT.entityAnnotation>

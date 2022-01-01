@@ -1,0 +1,332 @@
+{
+    "version": "1.1.0",
+    "data": "An individual in the initial stages of moderate to severe depression may experience relief from cognitive therapy equivalent to careful drug therapy. This is the conclusion from the April issue of the Archives of General Psychiatry, a publication of The Journal of the American Medical Association’s “Archives.”\n\nAlthough antidepressant medications are the most widely used and effective treatment, cognitive, or talk-therapy, under the direction of highly trained professionals, has now shown potential in treating the early stages of major depressive disorder.\n\nAn eight week study by researchers at the University of Pennsylvania and Vanderbilt University examined the response of 240 depressed patients, randomly placed into three groups. The first group (n=120) received psychological therapy; the second (n=60) a more traditional drug routine, and the third group (n=60) only placebo pills.\n\nThe study found that both treated groups recovered wellness much better than the placebo group. At eight weeks, the medication group was at 50 per cent, the cognitive therapy group was at 43 per cent while the pill placebo group had only a 25 per cent improvement.\n\nAfter 16 weeks both medically treated groups had about 58 per cent improvement. Remission rates were better with the antidepressant medications at 46 percent with 40 per cent for the cognitive therapy group. Further follow up showed sustained improvement with the medicine-treated group in the Vanderbilt University location. The U of P groups remained about equal.\n\nIn conclusion, the report stated, “Cognitive therapy can be as effective as medications for the initial treatment of moderate to severe major depression, but this degree of effectiveness may depend on a high level of therapist experience or expertise.”\n",
+    "attributes": {
+        "entities": {
+            "type": "list",
+            "itemType": "entities",
+            "items": [
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 51,
+                            "endOffset": 68
+                        }
+                    ],
+                    "type": "DISEASE",
+                    "entityId": "Q42844"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 96,
+                            "endOffset": 113
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q13693745"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 136,
+                            "endOffset": 148
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q701216"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 201,
+                            "endOffset": 231
+                        }
+                    ],
+                    "type": "PRODUCT",
+                    "entityId": "Q27724003"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 250,
+                            "endOffset": 297
+                        }
+                    ],
+                    "type": "ORG",
+                    "entityId": "Q1470970"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 322,
+                            "endOffset": 348
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q76560"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 388,
+                            "endOffset": 397
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q179661"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 399,
+                            "endOffset": 408
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q13693745"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 413,
+                            "endOffset": 425
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q183257"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 536,
+                            "endOffset": 561
+                        }
+                    ],
+                    "type": "DISEASE",
+                    "entityId": "Q42844"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 606,
+                            "endOffset": 632
+                        }
+                    ],
+                    "type": "ORG",
+                    "entityId": "Q49117"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 637,
+                            "endOffset": 658
+                        }
+                    ],
+                    "type": "ORG",
+                    "entityId": "Q29052"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 776,
+                            "endOffset": 797
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q183257"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 836,
+                            "endOffset": 840
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q12140"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 882,
+                            "endOffset": 889
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q269829"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 979,
+                            "endOffset": 986
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q269829"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1014,
+                            "endOffset": 1024
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q12140"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1055,
+                            "endOffset": 1072
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q13693745"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1113,
+                            "endOffset": 1120
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q269829"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1281,
+                            "endOffset": 1307
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q76560"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1347,
+                            "endOffset": 1364
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q13693745"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1428,
+                            "endOffset": 1436
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q12140"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1458,
+                            "endOffset": 1479
+                        }
+                    ],
+                    "type": "LOC",
+                    "entityId": "Q29052"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1494,
+                            "endOffset": 1500
+                        }
+                    ],
+                    "type": "ORG",
+                    "entityId": "Q49117"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1566,
+                            "endOffset": 1583
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q13693745"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1607,
+                            "endOffset": 1618
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q12140"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1635,
+                            "endOffset": 1644
+                        }
+                    ],
+                    "type": "TREATMENT",
+                    "entityId": "Q179661"
+                },
+                {
+                    "mentions": [
+                        {
+                            "startOffset": 1667,
+                            "endOffset": 1683
+                        }
+                    ],
+                    "type": "DISEASE",
+                    "entityId": "Q42844"
+                }
+            ]
+        }
+    },
+    "documentMetadata": {
+        "title": [
+            "Talk-therapy can make a difference in early treatment of severe depression"
+        ],
+        "language": [
+            "en"
+        ],
+        "direction": [
+            "ltr"
+        ],
+        "published_date": [
+            "2005-04-05"
+        ],
+        "accessed_date": [
+            "2020-08-19T17:58:33.175653"
+        ],
+        "url": [
+            "https://en.wikinews.org/wiki/Talk-therapy_can_make_a_difference_in_early_treatment_of_severe_depression"
+        ],
+        "domain": [
+            "https://en.wikinews.org"
+        ],
+        "wikinews_categories": [
+            "https://en.wikinews.org/wiki/Category:April_5,_2005",
+            "https://en.wikinews.org/wiki/Category:Archived",
+            "https://en.wikinews.org/wiki/Category:Health",
+            "https://en.wikinews.org/wiki/Category:North_America",
+            "https://en.wikinews.org/wiki/Category:Published",
+            "https://en.wikinews.org/wiki/Category:University_of_Pennsylvania"
+        ],
+        "uuid": [
+            "482dd6531137335a88330bc3ab35d7ea"
+        ],
+        "annotators": [
+            "yaeli",
+            "nathalie",
+            "nimrod"
+        ],
+        "adjudicators": []
+    }
+}
